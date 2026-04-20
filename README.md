@@ -40,11 +40,12 @@ I created this project to strengthen my understanding of machine learning basics
 Titanic-Survival-Prediction/
 │
 ├── titanic_analysis.ipynb
+
 ├── model.pkl
+
 ├── requirements.txt
+
 ├── README.md
-├── app.py (optional)
-└── screenshots/ (optional)
 
 ---
 
