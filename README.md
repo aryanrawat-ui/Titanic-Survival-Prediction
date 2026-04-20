@@ -38,7 +38,7 @@ I created this project to strengthen my understanding of machine learning basics
 ## Project Files
 
 Titanic-Survival-Prediction/
-│
+
 ├── titanic_analysis.ipynb
 
 ├── model.pkl
